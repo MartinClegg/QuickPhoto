@@ -36,7 +36,7 @@ echo =   CREATE DB TABLE
 echo =
 echo ===================================
 
-sudo mysql -uroot -proot -e "CREATE DATABASE quickphoto"
+sudo mysql -uroot -e "CREATE DATABASE quickphoto"
 
 echo ===================================
 echo =
